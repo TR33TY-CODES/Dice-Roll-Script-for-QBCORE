@@ -3,4 +3,4 @@
 
 
     ['dice']                      = { ['name'] = 'dice',                           ['label'] = 'Dice',                    ['weight'] = 1,        ['type'] = 'item',      ['image'] = 'dice.png',          ['unique'] = true,                     ['useable'] = true,         ['shouldClose'] =       true,             ['combinable'] = nil,              ['description'] = 'A six-sided die for rolling random numbers.'},
-"# Dice-Roll-Script-for-QBCORE" 
+
