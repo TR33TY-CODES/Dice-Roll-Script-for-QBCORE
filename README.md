@@ -1,3 +1,5 @@
+https://forum.cfx.re/t/qbcore-dice-rolling-script-free-updated/5252267/5
+
 -- Thank you for downloading my Dice script, feel free to edit anything you like. “dice” to qb-core/shared/items.lua
 
 
